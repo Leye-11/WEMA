@@ -224,6 +224,24 @@
     margin-left: 520px;
 }
 
+
+
+.mobsearch {
+  display: none !important;
+}
+
+@media (max-width: 768px) {
+  .mobsearch {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    cursor: pointer !important;
+    font-size: 20px !important;
+    color: #000 !important; /* Adjust color to match your theme */
+  }
+}
+
+
 .menuicon1 {
     display: none; 
     border: none;
