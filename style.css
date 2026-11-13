@@ -207,6 +207,9 @@
     font-weight: 600;
     white-space: nowrap;
 }
+.lock1 {
+    margin-bottom: 2px;
+}
 
 .search1 {
     border: none;
